@@ -1,27 +1,17 @@
 # 👋 Greetings, I'm Onyiriuka Justin!
 
-<style>
-  /* Typing animation */
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
 
-  /* Blinking cursor animation */
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange }
-  }
-
-  #currentFocus {
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    overflow: hidden;
-    animation: typing 3s steps(30, end), blink-caret .5s step-end infinite alternate;
-  }
-</style>
-
-<p id="currentFocus">Front-end Development</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <p id="currentFocus">Front-end Development</p>
+</body>
+</html>
 
 As a passionate **Cybersecurity Enthusiast** and **Web Development Artisan**, I craft secure and vibrant digital experiences. 🛡️💻
 
