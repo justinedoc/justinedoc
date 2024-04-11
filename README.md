@@ -1,45 +1,6 @@
 # 👋 Greetings, I'm Onyiriuka Justin!
 
-<p id="currentFocus"></p>
-
-
-const profile = {
-  name: "Onyiriuka Justin",
-  interests: ["Cybersecurity", "Web Development"],
-  currentFocus: ["Front-end Development", "Cybersecurity"],
-  pronouns: "He/him",
-  funFact: "Google’s name was the fruit of a spelling mistake 😂",
-  contact: "justinifeanyi56@gmail.com",
-  collaborate: (projectIdea) => {
-    console.log(`Let's collaborate on ${projectIdea}! 🤝`);
-  },
-  animate: () => {
-    const focusElement = document.getElementById("currentFocus");
-    const focusList = profile.currentFocus;
-    let currentIndex = 0;
-    let currentText = "";
-    let isDeleting = false;
-    function animateText() {
-      const speed = 200; // Typing speed in milliseconds
-      currentText = isDeleting ? focusList[currentIndex].slice(0, currentText.length - 1) : focusList[currentIndex].slice(0, currentText.length + 1);
-      focusElement.textContent = currentText;
-      let delta = isDeleting ? 50 : 100;
-      if (!isDeleting && currentText === focusList[currentIndex]) {
-        delta = 2000; // Pause at the end of typing
-        isDeleting = true;
-      } else if (isDeleting && currentText === "") {
-        isDeleting = false;
-        currentIndex = (currentIndex + 1) % focusList.length;
-      }
-      setTimeout(animateText, delta);
-    }
-    animateText();
-  }
-};
-
-profile.collaborate("the next big thing");
-profile.animate();
-
+<p id="currentFocus">Front-end Development</p>
 
 As a passionate **Cybersecurity Enthusiast** and **Web Development Artisan**, I craft secure and vibrant digital experiences. 🛡️💻
 
@@ -74,11 +35,3 @@ function checkPasswordStrength(password) {
   const strongRegex = new RegExp('^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#\$%\^&\*])(?=.{8,})');
   return strongRegex.test(password);
 }
-
-
-
-
-<!---
-justinedoc/justinedoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
