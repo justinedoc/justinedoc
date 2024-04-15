@@ -1,20 +1,8 @@
+
 # 👋 Greetings, I'm Onyiriuka Justin!
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <p id="currentFocus">Front-end Development</p>
-</body>
-</html>
-
+# Front-end Development
 As a passionate **Cybersecurity Enthusiast** and **Web Development Artisan**, I craft secure and vibrant digital experiences. 🛡️💻
-
 
 ## About Me
 - 🌐 Crafting the web with **HTML**, **CSS**, and **JavaScript**.
