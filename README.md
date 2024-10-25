@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm @justinedoc 👋</h1>
+<h1 align="left">Hi, I'm Justin 👋</h1>
 <h3 align="left">I'm a Frontend Developer</h3>
 
 📫 Reach me from [here](mailto:richardjustin500@gmail.com)
