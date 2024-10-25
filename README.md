@@ -7,10 +7,10 @@
   
 - 🔭 I’m currently working on [Tubesnap](https://tube-snap.vercel.app)
 - 🌱 I’m currently learning **reactjs**
-- 👨‍💻 All of my projects are available at [Projects](https://justinedoc.vercel.app)
+- 👨‍💻 All of my projects are available at [My projects](https://justinedoc.vercel.app)
 - 👯 I'm open to collabs
-- ⚡Fun fact: I'm NaN 😉
 - 📄 Know about my [experiences](https://justinedoc.vercel.app/#experience)
+- ⚡Fun fact: I'm NaN 😉
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 <p style="display: flex; gap: 1em">
