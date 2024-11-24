@@ -6,7 +6,7 @@
 <h2> About: </h2>
   
 - 🔭 I’m currently working on [Tubesnap](https://tube-snap.vercel.app)
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **ts**
 - 👨‍💻 All of my projects are available at [My projects](https://justinedoc.vercel.app)
 - 👯 I'm open to collabs
 - 📄 Know about my [experiences](https://justinedoc.vercel.app/#experience)
