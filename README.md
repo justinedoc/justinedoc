@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [My projects](https://justinedoc.vercel.app)
 - 👯 I'm open to collabs
 - 📄 Know about my [experiences](https://justinedoc.vercel.app/#experience)
-- ⚡Fun fact: I love challenges 😉
+- ⚡ Fun fact: I love challenges 😉
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 <p style="display: flex; gap: 1em">
