@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Justin 👋</h1>
-<h3 align="left">I'm a Frontend Developer</h3>
+<h3 align="left">I'm a MERN stack developer</h3>
 
 📫 Reach me from [here](mailto:richardjustin500@gmail.com)
 
