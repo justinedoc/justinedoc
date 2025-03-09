@@ -99,6 +99,7 @@
     />
   </a>
 </p>
+<br />
 
 <h2>🔥 My Stats:</h2>
 
@@ -119,17 +120,12 @@
   />
 </p>
 
-<h2>😉 Support Me:</h2>
+<h3>My Top Languages:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/justinedoc">
-    <img
-      align="left"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="justinedoc"
-  /></a>
-</p> <br />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinedoc&layout=compact) <br />
+
+</p>
 
 <p align="left">
   <img
