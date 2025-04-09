@@ -5,11 +5,9 @@
 
 <h2> About: </h2>
   
-- 🔭 I’m currently working on [Lincky](https://tube-snap.vercel.app)
-- 🌱 I’m currently learning **ts**
-- 👨‍💻 All of my projects are available at [My projects](https://justinedoc.vercel.app)
+- 🔭 I’m currently working on [GGECL](https://ggecl-preview.vercel.app)
+- 🌱 I’m currently learning **golang**
 - 👯 I'm open to collabs
-- 📄 Know about my [experiences](https://justinedoc.vercel.app/#experience)
 - ⚡ Fun fact: I love challenges 😉
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
