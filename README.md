@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Justin.</h1>
-<h3 align="left">Frontend-Heavy Fullstack Developer</h3>
+<h3 align="left">Fullstack Developer</h3>
 
 <p align="left">
   Currently upgrading my workflow from standard MERN to the T3/TanStack ecosystem. I like type-safety, fast build tools, and UIs that actually feel good to use.
@@ -12,10 +12,8 @@
 <h2>🧐 What I'm actually doing:</h2>
 
 - 🔭 **Working on:** Frontend architecture for [Showgate](https://show-gate.vercel.app/) and **DeepTalentPlatform**.
-- ⚛️ **Current Focus:** Moving state management to **TanStack Query** and creating scroll animations with **Framer Motion**.
 - 🛠️ **Tooling:** I recently migrated my projects from ESLint to **Biome** for speed.
 - 🌱 **Learning:** **Golang** (to strengthen my backend game beyond Node.js).
-- ⚡ **Non-Tech:** I read a lot of speculative philosophy (Spinoza/Descartes) and I'm into futuristic sci-fi.
 
 <br />
 
