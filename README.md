@@ -5,7 +5,7 @@
   Currently upgrading my workflow from standard MERN to the T3/TanStack ecosystem. I like type-safety, fast build tools, and UIs that actually feel good to use.
 </p>
 
-📫 **Contact:** [richardjustin500@gmail.com](mailto:justinifeanyi56@gmail.com)
+📫 **Contact:** [justinifeanyi56@gmail.com](mailto:justinifeanyi56@gmail.com)
 
 <br />
 
